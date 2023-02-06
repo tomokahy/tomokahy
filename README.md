@@ -12,14 +12,14 @@
 
 - Tokyo Institute of Technolory
 
-  - Yumiyama Laboratory
+  - <a href="http://yumiyama.my.coocan.jp/">Yumiyama Laboratory</a>
   - Graduate major in Social and Human Sciences
   - School of Environment and Society
 
 - Aoyama Gakuin University
 
   - Bachelor of Arts
-  - Furuhashi Laboratory
+  - <a href="https://github.com/furuhashilab">Furuhashi Laboratory</a>
   - Sociology Cluster
   - School of Global Studies and Collaboration
 
