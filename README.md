@@ -1,7 +1,6 @@
-# Tomoka Hayasaki 早﨑 智香
+<h1 align="center">Tomoka Hayasaki 早﨑 智香</h1>
 
 [![Twitter: tomokahy](https://img.shields.io/twitter/follow/tomokahy?style=social)](https://twitter.com/tomokahy)
-
 
 ### Profile
 
