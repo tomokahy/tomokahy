@@ -8,18 +8,18 @@
 
 ### Education
 
-Tokyo Institute of Technolory
+- Tokyo Institute of Technolory
 
-- Yumiyama Laboratory
-- Graduate major in Social and Human Sciences
-- School of Environment and Society
+  - Yumiyama Laboratory
+  - Graduate major in Social and Human Sciences
+  - School of Environment and Society
 
-Aoyama Gakuin University
+- Aoyama Gakuin University
 
-- Bachelor of Arts
-- Furuhashi Laboratory
-- Sociology Cluster
-- School of Global Studies and Collaboration
+  - Bachelor of Arts
+  - Furuhashi Laboratory
+  - Sociology Cluster
+  - School of Global Studies and Collaboration
 
 <br />
 
@@ -31,15 +31,15 @@ Aoyama Gakuin University
 
 ### 学校歴
 
-青山学院大学
-- 地球社会共生学部 地球社会共生学科
-- ソシオロジークラスター
-- 古橋研究室
-- 学術学士
+- 青山学院大学
+  - 地球社会共生学部 地球社会共生学科
+  - ソシオロジークラスター
+  - 古橋研究室
+  - 学術学士
 
-東京工業大学大学院
-- 環境・社会理工学院
-- 社会・人間科学系 社会・人間科学コース
-- 弓山研究室
+- 東京工業大学大学院
+  - 環境・社会理工学院
+  - 社会・人間科学系 社会・人間科学コース
+  - 弓山研究室
 
 
