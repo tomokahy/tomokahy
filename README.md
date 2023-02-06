@@ -1,6 +1,7 @@
 # Tomoka Hayasaki 早﨑 智香
 
-<a href="https://twitter.com/tomokahy?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @tomokahy</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![Twitter: tomokahy](https://img.shields.io/twitter/follow/tomokahy?style=social)](https://twitter.com/tomokahy)
+
 
 ### Profile
 
