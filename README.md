@@ -2,13 +2,13 @@
 
 [![Twitter: tomokahy](https://img.shields.io/twitter/follow/tomokahy?style=social)](https://twitter.com/tomokahy)
 
-### Profile
+### :alien: Profile
 
 - Graduate student at Tokyo Institute of Technology
 
 - Major in Sociology of Religion
 
-### Education
+### :pencil2: Education 
 
 - Tokyo Institute of Technolory
 
@@ -25,13 +25,13 @@
 
 <br />
 
-### プロフィール
+### :alien: プロフィール 
 
 - 東京工業大学大学院 修士課程
 
 - 宗教社会学 専攻
 
-### 学校歴
+### :pencil2: 学校歴 
 
 - 青山学院大学
   - 地球社会共生学部 地球社会共生学科
