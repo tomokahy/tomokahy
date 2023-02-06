@@ -2,6 +2,7 @@
 
 [![Twitter: tomokahy](https://img.shields.io/twitter/follow/tomokahy?style=social)](https://twitter.com/tomokahy)
 
+<a href= "https://note.com/tomokahy" >早﨑智香｜note</a>
 
 ## :alien: Profile
 
