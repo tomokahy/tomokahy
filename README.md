@@ -2,11 +2,13 @@
 
 [![Twitter: tomokahy](https://img.shields.io/twitter/follow/tomokahy?style=social)](https://twitter.com/tomokahy)
 
+
 ## :alien: Profile
 
 - Graduate student at Tokyo Institute of Technology
-
 - Major in Sociology of Religion
+  - Interested in the religion of immigrants in Japan
+  - Research on Thai Theravada Buddhist Temples in Japan
 
 ## :pencil2: Education 
 
@@ -28,8 +30,9 @@
 ## :alien: プロフィール 
 
 - 東京工業大学大学院 修士課程
-
 - 宗教社会学 専攻
+  - 外国ルーツの人々の宗教に関心があります
+  - 日本国内のタイ上座仏教寺院の
 
 ## :pencil2: 学校歴 
 
