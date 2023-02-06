@@ -1,10 +1,10 @@
-# Tomoka Hayasaki 早﨑 智香
+## Tomoka Hayasaki 早﨑 智香
 
 ### Profile
 
-Graduate student at Tokyo Institute of Technology
+- Graduate student at Tokyo Institute of Technology
 
-Major in Sociology of Religion
+- Major in Sociology of Religion
 
 ### Education
 
@@ -21,11 +21,13 @@ Aoyama Gakuin University
 - Sociology Cluster
 - School of Global Studies and Collaboration
 
+<br />
+
 ### プロフィール
 
-東京工業大学大学院 修士課程
+- 東京工業大学大学院 修士課程
 
-宗教社会学 専攻
+- 宗教社会学 専攻
 
 ### 学校歴
 
