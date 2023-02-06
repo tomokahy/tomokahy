@@ -1,4 +1,4 @@
-## Tomoka Hayasaki 早﨑 智香
+# Tomoka Hayasaki 早﨑 智香
 
 ### Profile
 
