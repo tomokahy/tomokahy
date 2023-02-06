@@ -13,7 +13,7 @@
 
 ## :pencil2: Education 
 
-- Tokyo Institute of Technolory
+- Tokyo Institute of Technology
 
   - <a href="http://yumiyama.my.coocan.jp/">Yumiyama Laboratory</a>
   - Graduate major in Social and Human Sciences
