@@ -5,6 +5,10 @@
 
 <a href= "https://note.com/tomokahy" >早﨑智香｜note</a>
 
+
+<a href= "https://scrapbox.io/tomokahy/" >scrapbox</a>
+
+
 <br />
 
 ## :alien: Profile
