@@ -5,9 +5,7 @@
 
 <a href= "https://note.com/tomokahy" >早﨑智香｜note</a>
 
-
-<a href= "https://scrapbox.io/tomokahy/" >scrapbox</a>
-
+<a href= "https://scrapbox.io/tomokahy/" >scrapbox｜早﨑智香 Tomoka Hayasaki</a>
 
 <br />
 
